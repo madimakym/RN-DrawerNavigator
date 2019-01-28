@@ -10,4 +10,4 @@
 
 5- Run expo start
 
-<img src="/_screenshots/DrawerNavigator.gif" width="300" height="100%"><img src="/_screenshots/DrawerNavigator.gif" width="300" height="100%">
+<img src="/_screenshots/ScreenShot_1.png" width="300" height="100%">  <img src="/_screenshots/ScreenShot_2.png" width="300" height="100%">
