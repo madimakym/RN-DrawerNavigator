@@ -9,3 +9,6 @@
 4- npm install or yarn install
 
 5- Run expo start
+
+
+![](https://github.com/madimakym/React-Native-DrawerNavigator/blob/master/_screenshots/DrawerNavigator.gif)
