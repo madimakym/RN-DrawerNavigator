@@ -10,5 +10,4 @@
 
 5- Run expo start
 
-
-![](https://github.com/madimakym/React-Native-DrawerNavigator/blob/master/_screenshots/DrawerNavigator.gif)
+<img src="/_screenshots/DrawerNavigator.gif" width="300" height="100%">
